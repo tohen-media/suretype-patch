@@ -1,10 +1,10 @@
 {
-  "name": "@configurator/suretype",
+  "name": "tohen-media-suretype",
   "version": "3.3.4",
   "description": "Typesafe JSON (Schema) validator with magic powers 🧙‍♂️",
   "author": "Gustaf Räntilä",
   "license": "MIT",
-  "homepage": "https://github.com/configurator/suretype-patch",
+  "homepage": "https://github.com/tohen-media/suretype-patch",
   "main": "./dist/index-nodejs.js",
   "browser": "./dist/index-browser.js",
   "types": "./dist/index-nodejs.d.ts",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/configurator/suretype-patch"
+    "url": "https://github.com/tohen-media/suretype-patch"
   },
   "keywords": [
     "typesafe",
